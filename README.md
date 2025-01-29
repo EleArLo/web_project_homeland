@@ -1,7 +1,7 @@
 # Tripleten web_project_homeland
 
 Título:
-Proyecto 5: Galería de arte TripleTen
+Proyecto 5: Galería de Arte TripleTen
 
 Descripción:
 En este proyecto mostraremos una galería de arte con breves descripciones de diversos lugares. Se utiliza diseño desde Figma
