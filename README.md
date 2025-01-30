@@ -1,5 +1,3 @@
-# Tripleten web_project_homeland
-
 Título:
 Proyecto 5: Galería de Arte TripleTen
 
